@@ -86,6 +86,57 @@ What were aspects of the presentations for which you had concerns or questions:
 I could not see the x-axis from plot showing crimes counting per day, so I do not know what do these curves mean.
 
 
+Title of presentation: Game
+
+What were aspects of the presentation that you liked:
+
+prezi is funny for presentation, the structure was vividly shown.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+the color is too light to see the text and the pictures. The samples they chose have a big probem. Because the level of players who created these data are very skillful, at least thier ranks are over average. So, the champions they chose have already contained their understanding of this game or their preference or inclination. So their results are not suitable for common situation. They are just for the group their data came from.
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked:
+
+The radar maps are fancy.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+But the results are too complex, it is hard for us to extract useful information from them.
+
+
+Title of presentation: traffic
+
+What were aspects of the presentation that you liked:
+
+residual plots are good. But too many.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+I do not understand why there exists a straight line in the residual plot, it is strange, and the group did not understand too.
 
 
 
+Title of presentation: Song
+
+What were aspects of the presentation that you liked:
+
+the tables and plots are clear and beautiful. the analysis is detailed and reasonable.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+I do not understand why there exists a straight line in the residual plot, it is strange, and the group did not understand too.
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked:
+
+the tables and plots are clear and beautiful. the analysis is detailed and reasonable.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+I do not understand why there exists a straight line in the residual plot, it is strange, and the group did not understand too.
