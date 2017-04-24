@@ -135,8 +135,8 @@ Title of presentation: Terrorism
 
 What were aspects of the presentation that you liked:
 
-the tables and plots are clear and beautiful. the analysis is detailed and reasonable.
+the plot changes by time is really cool. 
 
 What were aspects of the presentations for which you had concerns or questions:
 
-I do not understand why there exists a straight line in the residual plot, it is strange, and the group did not understand too.
+Why do you guys want to predict the number of people die in attacks? What about the situation which will cause an attack or under which an attack happens.
